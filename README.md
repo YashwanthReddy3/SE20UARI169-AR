@@ -18,5 +18,4 @@ Basically, this app has some preloaded furniture designs and we can view how it 
 # Limitations:
 Currently, we only have 3 furniture models. Later on, we can add multiple designs to the app whenever we want.
 # Team:
-Adepu Prashant – SE20UARI004
-Yashwanth Reddy Chinnamallu – SE20UARI169
+Adepu Prashant – SE20UARI004, Yashwanth Reddy Chinnamallu – SE20UARI169
